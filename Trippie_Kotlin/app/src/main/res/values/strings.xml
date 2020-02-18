@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trippie</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_schedule">Schedule</string>
+    <string name="hint_price">Ticket Price</string>
+    <string name="hint_word">Word...</string>
+    <string name="button_save">Save</string>
+    <string name="button_update">Update</string>
+    <string name="empty_not_saved">Sightseeing not saved because its name is empty.</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="travel">travel</string>
+</resources>

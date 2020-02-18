@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "175645053214",
+    "firebase_url": "https://trippiekotlin.firebaseio.com",
+    "project_id": "trippiekotlin",
+    "storage_bucket": "trippiekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175645053214:android:461fd88bbed902dde1f90f",
+        "android_client_info": {
+          "package_name": "en.ubb.trippie_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175645053214-5tqa6dikdurbl2rc71nh2sjthuuto6do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "en.ubb.trippie_kotlin",
+            "certificate_hash": "cc670c0158b716e330ef8ddf40838071c776e84b"
+          }
+        },
+        {
+          "client_id": "175645053214-bo478olpc38ge3g4lcdt2ibl6cm82ssl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Xkr1IPGdeZ4hnxDkCZaw-BQ1aOwG1bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175645053214-bo478olpc38ge3g4lcdt2ibl6cm82ssl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

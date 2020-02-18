@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/view_name"
+        style="@style/details"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="@dimen/big_padding"
+        android:layout_marginBottom="@dimen/big_padding"
+        android:padding="@dimen/small_padding"
+        android:shadowColor="#053626"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="2"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:typeface="sans" />
+
+    <TextView
+        android:id="@+id/view_schedule"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        style="@style/details"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:padding="@dimen/small_padding"
+        android:layout_marginBottom="@dimen/big_padding"
+        android:layout_marginTop="@dimen/big_padding"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:textStyle="bold"
+        android:shadowColor="#053626"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        />
+
+    <TextView
+        android:id="@+id/view_price"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        style="@style/details"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:padding="@dimen/small_padding"
+        android:layout_marginBottom="@dimen/big_padding"
+        android:layout_marginTop="@dimen/big_padding"
+        android:textSize="20sp"
+        android:typeface="sans"
+        android:textStyle="bold"
+        android:shadowColor="#053626"
+        android:shadowRadius="2"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        />
+
+    <ImageView
+        android:id="@+id/travel_view"
+        android:layout_width="match_parent"
+        android:layout_height="396dp"
+        android:layout_marginTop="@dimen/big_padding"
+        android:layout_marginBottom="@dimen/big_padding"
+        android:contentDescription="@string/travel"
+        android:padding="@dimen/small_padding"
+        app:srcCompat="@drawable/travel" />
+
+</LinearLayout>
